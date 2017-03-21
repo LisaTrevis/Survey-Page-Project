@@ -1,0 +1,27 @@
+.container {
+	text-align: center;
+	font-family: 'Chewy', cursive;
+	background-color: #E9D5A2;
+}
+
+.form {
+	text-align: left;
+	border: 1px solid #000;
+	padding-left: 25px;
+	padding-bottom: 25px;
+	border-radius: 10px;
+	background-color: #B6E993;
+	font-size: 15px;
+}
+
+.form h1 {
+	font-size: 30px;
+}
+
+#btn {
+	margin: 10px 0;
+	background-color: #B6E993;
+	font-size: 25px;
+	border-radius: 10px;
+}
+
